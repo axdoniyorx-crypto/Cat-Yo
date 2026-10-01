@@ -1,0 +1,6 @@
+{
+  "name": "MicroLife: 2D AI Sim",
+  "description": "2D top-down artificial life simulation game featuring 20 autonomous AI agents with utility brains, dynamic needs, and evolving skills in an enclosed micro-city.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
